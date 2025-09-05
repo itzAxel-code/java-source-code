@@ -5,7 +5,7 @@ The program shows a menu (Stack, Queue, Linked List, Circular Linked List, Exit)
 Based on user input, it goes to the chosen data structure menu.
 Each data structure has its own set of operations (insert, delete, display, etc.).
 
-# Brief Explanation
+# Brief Explanation How Code works
 The program works by showing a main menu where the user can choose a data structure: Stack, Queue, Linked List, or Circular Linked List. Each structure has its own menu of operations. In a Stack, you can push, pop, and display elements (LIFO rule). In a Queue, you can enqueue, dequeue, and display elements (FIFO rule). The Linked List lets you insert at the end or delete at the beginning, while the Circular Linked List works the same but connects the last node back to the first. This way, the code demonstrates how each data structure stores and manages data differently.
 
 # Stack 
